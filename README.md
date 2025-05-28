@@ -8,19 +8,21 @@ A simple Node.js backend that processes meeting notes (text or file) and returns
 1. Clone repo and enter folder:
  - git clone https://github.com/vengadesh-max/AI-Powered-Meeting-Minutes-Extractor.git
 
-3. set directory
+2. set directory
  - cd meeting-notes-ai
 
-4. Install dependencies:
+3. Install dependencies:
  - npm install
 
-5. Create `.env` file with:
+4. Create `.env` file with:
  - GEMINI_API_KEY=your_gemini_api_key_here
  - PORT=3000
 
-## Running the app
-
-Start the server:
+## Run the app 
+##### Terminal
+1. set directory
+ - cd meeting-notes-ai
+2. Start the server:
  - node app.js
 
  - Output : ✅ Server running on port 3000
