@@ -31,7 +31,7 @@ A simple Node.js backend that processes meeting notes (text or file) and returns
 ## Test
 
 Send meeting notes as raw text:
- - curl -X POST http://localhost:3000/process-meeting -H "Content-Type: text/plain" -d "Your meeting notes here"
+ - curl -X POST http://localhost:3001/process-meeting -H "Content-Type: text/plain" -d "Your meeting notes here"
 
 Or upload a `.txt` file:
  - curl -X POST http://localhost:3000/process-meeting -F "file=@test-notes/sample1.txt"
