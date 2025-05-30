@@ -42,6 +42,9 @@ Or upload a `.txt` file:
 
 Returns JSON with summary, decisions, and action items.
 
+![Screenshot (1757)](https://github.com/user-attachments/assets/985b889a-2b67-4219-abbc-aeec051795e8)
+
+
 ---
 
 ## Notes
