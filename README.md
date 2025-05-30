@@ -25,7 +25,7 @@ A simple Node.js backend that processes meeting notes (text or file) and returns
 2. Start the server:
  - node app.js
 
- - Output : ✅ Server running on port 3000
+ - Output : ✅ Server running on port 3001
 
 
 ## Test
