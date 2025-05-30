@@ -16,7 +16,7 @@ A simple Node.js backend that processes meeting notes (text or file) and returns
 
 4. Create `.env` file with:
  - GEMINI_API_KEY=your_gemini_api_key_here
- - PORT=3000
+ - PORT=3001
 
 ## Run the app 
 ##### Terminal
