@@ -6,7 +6,7 @@ A simple Node.js backend that processes meeting notes (text or file) and returns
 ## Setup
 
 1. Clone repo and enter folder:
- - git clone https://github.com/vengadesh-max/AI-Powered-Meeting-Minutes-Extractor.git
+ - git clone https://github.com/vengadesh-max/AI-Powered-Meeting-info-Extractor.git
 
 2. set directory
  - cd meeting-notes-ai
